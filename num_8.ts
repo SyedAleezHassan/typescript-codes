@@ -1,0 +1,12 @@
+var num1=4;
+var num2=4;
+console.log(num1+num2);
+var num1=12;
+var num2=4;
+console.log(`and of subtraction is ${num1-num2}`);
+var num1=4;
+var num2=2;
+console.log(num1*num2);
+var num1=64;
+var num2=8;
+console.log(num1/num2);
