@@ -12,7 +12,7 @@ else if (age < 20) {
     console.log('The person is a teenager.');
 }
 else if (age < 65) {
-    console.log('The person is an adult.');
+    console.log('The personn is an adult.');
 }
 else {
     console.log('The person is an elder.');
